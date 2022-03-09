@@ -1,0 +1,21 @@
+{
+  "name": "header-dhillon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.2",
+    "sharp": "^0.30.2",
+    "twitter-api-client": "^1.5.2"
+  }
+}
