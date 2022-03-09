@@ -4,7 +4,7 @@ A NodeJS app that dynamically updates your twitter header
 with 2 lines of random lyrics from any random track
 by the punjabi artist AP Dhillon.
 
-It fetches data from API Dhillon, an API made by @akaushik.
+It fetches data from API Dhillon, an API made by [Abhishek](https://github.com/akaushik759)
 I found it to be super cool! Big ups to him! 🤟
 
 # How to run
